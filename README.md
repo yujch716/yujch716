@@ -11,4 +11,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon ELB-8C4FFF?style=for-the-badge&logo=AWS%20Elastic%20Load%20Balancing&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon SES-DD344C?style=for-the-badge&logo=AWS%20Simple%20Email%20Service&logoColor=white">
 </div>
