@@ -17,5 +17,6 @@
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon ELB-8C4FFF?style=for-the-badge&logo=AWS%20Elastic%20Load%20Balancing&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon SES-DD344C?style=for-the-badge&logo=Amazon%20Simple%20Email%20Service&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=for-the-badge&logo=Amazon%20API%20Gateway&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=for-the-badge&logo=Amazon%20ECS&logoColor=white">
 </div>
